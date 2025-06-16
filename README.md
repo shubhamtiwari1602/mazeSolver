@@ -87,7 +87,7 @@ End: (4, 4)
 * Shows **backtracking and shortest path finding**.
 * Improves **problem-solving and debugging** skills.
 
-> Great practice for coding interviews and software internships!
+
 
 ---
 
